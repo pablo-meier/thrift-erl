@@ -1,11 +1,11 @@
-_Note this is a _copy_ of the `lib/erl/` directory of
+**Note this is a _copy_ of the `lib/erl/` directory of
 [Thrift](https://github.com/apache/thrift), and I make
 _no_ promises to keep this up to date and/or maintained. I'm hosting it here on
 GitHub to use it as a [rebar3](https://www.rebar3.org/) dependency of 
-[another project of mine](https://github.com/pablo-meier/ScrabbleCheat)_
+[another project of mine](https://github.com/pablo-meier/ScrabbleCheat)**
 
 I did not write this! What follows is the original README and license of that
-project by fabulous folks who shared it with the world :D
+project by fabulous folks who shared it with the world 😄 
 
 
 # Thrift Erlang Software Library #
